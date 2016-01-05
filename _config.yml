@@ -27,8 +27,8 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Author's home: "http://profiles.sc-ctsi.org/giridharan.ramsingh"
+  The Lab: "aboutme"
+  The PI: "http://profiles.sc-ctsi.org/giridharan.ramsingh"
   
 # --- Footer options --- #
 
