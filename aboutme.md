@@ -14,19 +14,22 @@ of development and disease in each population, so that we can treat the causes.
 
 ### People
 
-Steve
-Anthony
-Kwasi
-Devi
-Xin
-Gino
-Tim
+Incriminating photos coming soon!
+
+- Giri
+- Steve
+- Anthony
+- Kwasi
+- Devi
+- Xin
+- Gino
+- Tim
 
 ### Projects
 
-RNA methylation
-HSC senescence
-P53 in stem cells
+- RNA methylation
+- HSPC senescence
+- P53 in MDS and AML
 
 ### Publications
 
