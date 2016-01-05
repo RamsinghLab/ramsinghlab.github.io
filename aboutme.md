@@ -1,16 +1,33 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Giri Ramsingh
+subtitle: Principal Investigator
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+- We study (various things of great interest to humanity).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- We publish (in journals which then become high-impact by printing our work).
 
-What else do you need?
+- Most importantly, we try to understand why children, adults, and the elderly 
+all succumb to cancers of the blood, by dissecting common and distinct elements
+of development and disease in each population, so that we can treat the causes.
 
-### my history
+### People
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Steve
+Anthony
+Kwasi
+Devi
+Xin
+Gino
+Tim
+
+### Projects
+
+RNA methylation
+HSC senescence
+P53 in stem cells
+
+### Publications
+
+(Nature, Cell, Blood, etc. links go here)
